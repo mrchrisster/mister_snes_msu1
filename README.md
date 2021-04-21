@@ -8,8 +8,8 @@ dent^nz released a version of his SNES core with MSU1 functionality and this scr
   
 # Instructions 
 
-You need 2 files in your BIOS folder
-`BIOS/SNES-MSU1/MiSTer` and `/BIOS/SNES-MSU1/SNES-MSU1.rbf`  
+You need 2 files in your `/media/fat/BIOS` folder (the BIOS folder on your SD card)
+`/BIOS/SNES-MSU1/MiSTer` and `/BIOS/SNES-MSU1/SNES-MSU1.rbf`  
 Either download the files from [dent^nz](https://docs.google.com/spreadsheets/d/1r6ooCTI47UNO8S1VcnpdlEH4VK1r_A1BAsHhLBmoyMs/edit#gid=1790262802) or from this subfolder.
   
 Launch `SNES-MSU1-on.sh` to turn it on and `SNES-MSU1-off.sh` to turn it off.  

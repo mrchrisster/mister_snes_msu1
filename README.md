@@ -2,9 +2,10 @@
   
 The MSU-1 is a custom coprocessor much like the DSP chips used in games like Super Mario Kart or Pilotwings, designed by byuu, the author of bsnes and higan.  This chip enables playback of CD-quality (44.1kHz, 16-bit) audio, as well as addressing up to 4GB of data, far more than a typical SNES cartridge could ever hold.  This allows ROM hacks to replace the background music of games with high quality versions, and even play full-motion videos.  
   
+# Release History
+
 Playing MSU1 enhanced games on the MiSTer is often requested by community members but not supported at the time of writing in the MiSTer SNES core.
 dent^nz released a version of his SNES core with MSU1 functionality and this script will help you set it up.
-  
   
 # Instructions 
 

@@ -27,5 +27,5 @@ mv /media/fat/MiSTer /media/fat/MiSTer.bak
 mv /media/fat/MiSTer.ini /media/fat/MiSTer.ini.bak
 cp /media/fat/BIOS/SNES-MSU1/MiSTer /media/fat/MiSTer
 cp /media/fat/BIOS/SNES-MSU1/MiSTer.ini /media/fat/MiSTer.ini
-cp /media/fat/BIOS/SNES-MSU1/SNES-MSU1.rbf /media/fat/_Unstable_and_Old/
-fpga /media/fat/_Unstable_and_Old/SNES-MSU1.rbf
+cp /media/fat/BIOS/SNES-MSU1/SNES-MSU1.rbf /media/fat/_Console/
+fpga /media/fat/_Console/SNES-MSU1.rbf
